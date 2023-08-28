@@ -13,8 +13,4 @@ https://mykola-dev.github.io/Tetris/
 
 https://user-images.githubusercontent.com/1423947/188487203-d92ad397-8464-4107-85fe-f6244e3e6950.mp4
 
-
-todo:  
-js keyboard support  
-icon resources  
-lifecycle awareness  
+<a href="https://www.buymeacoffee.com/chberry830"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="60"></a>
